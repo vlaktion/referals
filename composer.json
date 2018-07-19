@@ -1,0 +1,15 @@
+{
+    "name": "vlaktion/referals",
+    "description": "The VLaktion module",
+    "license": "MIT",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Vlad Laktionov",
+            "email": "vlad.progers@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"VLaktion\\": "src/"}
+    }
+}
